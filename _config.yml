@@ -1,4 +1,3 @@
-layout_spectrum: 0.9670176806394011
 typography_spectrum: 0.24707780545577407
 color:
   brandStrength: 0.943774439394474
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.9670176806394011
 name: 'Alice Hobday : Yoga : Meditation : Sound'
 title: Alice Hobday
+description: My Pimping site
